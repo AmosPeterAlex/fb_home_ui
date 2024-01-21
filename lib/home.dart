@@ -31,7 +31,7 @@ class Home extends StatelessWidget {
           title: const Text(
             'facebook',
             style: TextStyle(
-              color: Colors.blue,
+              color: Color(0xff0866ff),
               fontSize: 30,
               fontWeight: FontWeight.bold,
             ),

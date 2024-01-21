@@ -10,7 +10,7 @@ class BlueTick extends StatelessWidget {
       width: 15,
       height: 15,
       decoration: BoxDecoration(
-        color: Colors.blue,
+        color: Color(0xff0866ff),
         shape: BoxShape.circle
       ),
       child: Icon(

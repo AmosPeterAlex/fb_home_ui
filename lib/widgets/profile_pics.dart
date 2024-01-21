@@ -23,7 +23,7 @@ class ProfilePics extends StatelessWidget {
           decoration: BoxDecoration(
             shape: BoxShape.circle,
             border: displayBorder
-                ? Border.all(width: 3, color: Colors.blueAccent)
+                ? Border.all(width: 3, color: Color(0xff0866ff))
                 : const Border(),
           ),
           padding: const EdgeInsets.only(left: 4, right: 4),
