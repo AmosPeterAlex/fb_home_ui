@@ -24,17 +24,6 @@ class SuggestionSection extends StatelessWidget {
               scrollDirection: Axis.horizontal,
               children: [
                 SuggestionCard(
-                  profilePic: me,
-                  name: "Amos P Alex",
-                  mutualFriends: '200 mutual friend',
-                  addFriend: () {
-                    // print("Add friend");
-                  },
-                  removeFriend: () {
-                    // print("remove from list");
-                  },
-                ),
-                SuggestionCard(
                   profilePic: sajin,
                   name: "Sajin Duglas",
                   mutualFriends: '542 mutual friend',
@@ -49,6 +38,17 @@ class SuggestionSection extends StatelessWidget {
                   profilePic: me,
                   name: "Amos ",
                   mutualFriends: '142 mutual friend',
+                  addFriend: () {
+                    // print("Add friend");
+                  },
+                  removeFriend: () {
+                    // print("remove from list");
+                  },
+                ),
+                SuggestionCard(
+                  profilePic: me,
+                  name: "Amos P Alex",
+                  mutualFriends: '200 mutual friend',
                   addFriend: () {
                     // print("Add friend");
                   },

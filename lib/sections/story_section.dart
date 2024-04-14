@@ -16,7 +16,7 @@ class StorySection extends StatelessWidget {
             labelText: "Add to story",
             profilePics: me,
             story: me,
-            createstoryStatus: true,
+            createstoryStatus: false,
           ),
           StoryCard(
               labelText: "Jenifer George", story: jeniStory, profilePics: jeni),
