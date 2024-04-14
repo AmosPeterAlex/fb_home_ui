@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Designed a Facebook home page UI using Flutter , this significantly enhanced my skills in UI design, widget refactoring, and overall development proficiency.
 
 A few resources to get you started if this is your first Flutter project:
 
